@@ -107,21 +107,6 @@ Possible dashboard functions include:
 ![Developer PQA Firmware](photo/developer-pqa-firmware.png)
 -->
 
-## Suggested Repository Structure
-
-```text
-Module-Developer-PQA/
-│
-├── firmware/                 # STM32 firmware source code
-├── web-dashboard/            # USB web monitoring interface
-├── hardware/                 # Schematic, PCB, BOM, and manufacturing files
-├── docs/                     # User guide and technical documentation
-├── photo/                    # Portfolio and project images
-│   └── developer-pqa-portfolio.png
-│
-└── README.md
-```
-
 ## Project Status
 
 This project is under active development. The hardware platform is available as a prototype, while firmware, USB dashboard features, data logging, and advanced power-quality analysis are being continuously developed.
